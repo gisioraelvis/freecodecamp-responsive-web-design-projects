@@ -1,4 +1,4 @@
-# Freecodecamp Responsive Web Design Projects
+# Freecodecamp Frontend Responsive Web Design Certification
 Projects for the [Freecodecamp Frontend Responsive Web Design Certification](https://www.freecodecamp.org/certification/gisioraelvis/responsive-web-design)
 
 ## Projects
